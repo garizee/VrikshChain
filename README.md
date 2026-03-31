@@ -1,2 +1,16 @@
-# VrikshChain
-VrikshChain is a Blockchain based project used making Ethereum layer to manage, record, trace, devise tagging and various operation on the ongoing market of Ayurvedic Herbs Market. The ongoing mode of transportation and processing of herbs from farmers is adulterated and not up to the mark as per the customer's requirements, fixed by the solution.
+# vrikshchain
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
